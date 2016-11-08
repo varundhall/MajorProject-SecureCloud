@@ -38,8 +38,8 @@ public class KeyGeneration extends HttpServlet {
     int otp = 0;
     String host = "smtp.gmail.com";
     String port = "587";
-    String userName = "major.project2016cse@gmail.com";
-    String password = "Majorproject@2016";
+    String userName = "EMAIL";
+    String password = "EMAIL_PASSWORD";
 
     int i = 0;
 
