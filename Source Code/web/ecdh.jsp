@@ -267,17 +267,5 @@
             <input name="n" type="text" size=100><p>
         </form>
         <hr>
-        <h2>Notes</h2>
-        <ul>
-            <li>Performance data moved to the <a href="speed.html">speed tables</a>
-            <li>Implementation based on BouncyCastle's Java EC code
-            <li>Point compression not supported
-            <li>Only curves over F(p) supported, no F(2<sup>m</sup>) support yet
-            <li>Additional performance optimizations (e.g. windowed multiplier) not yet exploited
-            <li>More error checking needed
-            <li>Need a switch to display hex values in demo
-        </ul>
-        <hr>
-        <address><a href="mailto:tjw@cs.stanford.edu">Tom Wu</a></address>
     </body>
 </html>
