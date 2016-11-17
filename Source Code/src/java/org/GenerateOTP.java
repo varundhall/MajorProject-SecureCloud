@@ -33,8 +33,8 @@ public class GenerateOTP extends HttpServlet {
     int i = 0;
     String host = "smtp.gmail.com";
     String port = "587";
-    String userName = "EMAIL";
-    String password = "EMAIL_PASSWORD";
+    String userName = "emailID";
+    String password = "emailPass";
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
