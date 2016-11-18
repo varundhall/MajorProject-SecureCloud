@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/varunvd1994/efficientsecure/web/footer.jsp</file>
-            <file>file:/home/varunvd1994/efficientsecure/web/header.jsp</file>
-            <file>file:/home/varunvd1994/efficientsecure/web/index.jsp</file>
+            <file>file:/home/varunvd1994/Desktop/securecloudprod/src/java/connection/ECC.java</file>
+            <file>file:/home/varunvd1994/Desktop/securecloudprod/src/java/org/KeyGeneration.java</file>
+            <file>file:/home/varunvd1994/Desktop/securecloudprod/src/java/org/EmailUtility.java</file>
+            <file>file:/home/varunvd1994/Desktop/securecloudprod/web/ecdh.jsp</file>
         </group>
     </open-files>
 </project-private>
